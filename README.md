@@ -1,1 +1,1 @@
-# diff-tests-scipy-statsmodels-pinguin
+# stat-tests-scipy-statsmodels-pinguin
