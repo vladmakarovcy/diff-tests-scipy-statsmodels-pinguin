@@ -1,1 +1,1 @@
-# stat-tests-scipy-statsmodels-pinguin
+# scipy-statsmodels-pinguin
